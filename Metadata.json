@@ -1,0 +1,20 @@
+{
+    "Author": "James R Tabor",
+    "ContentSize": 17405,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/create-direct-udrs-for-published-microsoft-azure-datacentre-ips/master/UDR-MS-Datacentre-Global-V2.ps1",
+    "DownloadCount": 902,
+    "Id": "Create-direct-UDRs-for-449f2b6b",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 333,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2017-5-9T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This script creates UDRs for the Microsoft Published Datacenter IP addresses for the specified region in all VNets found in the specified subscription and resource groupThis script can be uploaded as an Azure Automation Runbook and scheduled to allow for any IP address changes",
+    "Title": "Create direct UDRs for published Microsoft Azure Datacentre IPs",
+    "UpdatedDate": "2017-5-9T00:00:00",
+    "Url": "https://github.com/azureautomation/create-direct-udrs-for-published-microsoft-azure-datacentre-ips",
+    "UserTags": "Microsoft Azure, Azure Automation, UDR"
+}
